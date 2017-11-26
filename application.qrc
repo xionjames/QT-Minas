@@ -1,0 +1,13 @@
+<RCC>
+  <qresource>
+    <file>face-cool.png</file>
+    <file>face-sad.png</file>
+    <file>face-smile.png</file>
+    <file>face-win.png</file>
+    <file>face-worried.png</file>
+    <file>bang.png</file>
+    <file>flag-question.png</file>
+    <file>flag.png</file>
+    <file>mine.png</file>
+  </qresource>
+</RCC>
